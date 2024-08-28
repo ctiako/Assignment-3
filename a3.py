@@ -195,3 +195,23 @@ def main():
   
 if __name__ == '__main__':
     main()
+
+
+
+Solution to a3.py:
+
+Solving puzzle 1...
+
+puzzle 1 solution: []
+
+
+Solving puzzle 2...
+
+puzzle 2 solution: []
+Time: 0.0029169789631851017 seconds
+
+
+Solving puzzle 2 with heuristic...
+
+puzzle 2 solution: []
+Time: 0.0028258980019018054 seconds
